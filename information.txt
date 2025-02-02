@@ -1,0 +1,37 @@
+Frontend Framework
+
+React 18
+TypeScript for type safety
+Styling
+
+Tailwind CSS for responsive design and utility classes
+CSS transitions and animations
+Glass-morphism effects using backdrop-blur
+Icons and UI Elements
+
+Lucide React for scalable vector icons
+Dynamic backgrounds from Unsplash
+Build Tools
+
+Vite as the build tool and development server
+PostCSS for processing Tailwind CSS
+ESLint for code linting
+API Integration
+
+OpenWeatherMap API for real-time weather data
+Fetch API for making HTTP requests : d9d7a02269147f38fa3d49d8d5de684b
+State Management
+
+React's built-in useState hook
+TypeScript interfaces for type definitions
+Environment Management
+
+.env file for API key configuration
+Environment variables for secure key storage
+Development Tools
+
+TypeScript compiler
+ESLint for code quality
+Modern ES6+ JavaScript features
+This tech stack was chosen for its robustness, modern features, and excellent developer experience
+while maintaining high performance and clean code structure.
